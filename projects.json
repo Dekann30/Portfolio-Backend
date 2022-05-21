@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pokemon Type Matchups",
+        "live": "https://pokemon-type-matchup.netlify.app/",
+        "git": "https://github.com/Dekann30/PokemonTypeMatchups",
+        "image": ""
+    },
+    {
+        "name": "Language Tracker",
+        "live": "https://dk-languagetracker.herokuapp.com/concepts",
+        "git": "https://github.com/Dekann30/Language_Tracker",
+        "image": ""
+    }
+]
