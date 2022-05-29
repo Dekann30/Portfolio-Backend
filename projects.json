@@ -3,12 +3,12 @@
         "name": "Pokemon Type Matchups",
         "live": "https://pokemon-type-matchup.netlify.app/",
         "git": "https://github.com/Dekann30/PokemonTypeMatchups",
-        "image": "https://imgur.com/OE4ujZp"
+        "image": "https://i.imgur.com/OE4ujZp.png"
     },
     {
         "name": "Language Tracker",
         "live": "https://dk-languagetracker.herokuapp.com/concepts",
         "git": "https://github.com/Dekann30/Language_Tracker",
-        "image": "https://imgur.com/mCEqWAJ"
+        "image": "https://i.imgur.com/mCEqWAJ.png"
     }
 ]
